@@ -16,6 +16,7 @@ Booking engines, payments and WhatsApp commerce for tour operators, lodges and r
 | **KwaWingu Dine** | WhatsApp-native AI ordering and payments for restaurants |
 | **KwaWingu Rentals** | Bookings and availability for rental businesses |
 | **KwaWingu QR** | QR code tools for hospitality businesses |
+| **[KwaWingu Scan](https://scan.kwawingu.com)** | Free website checker that scores tour operators, lodges, hotels and restaurants out of 100 on mobile speed, booking path, Google, booking sites and reviews |
 
 All products share one identity, billing and payments layer, with mobile money and card payments settled directly to each business.
 
